@@ -55,12 +55,10 @@ To use this tool effectively, follow these steps. Ensure you have the necessary 
 
 | Technology    | Description                                        | Link                                                                               |
 | :------------ | :------------------------------------------------- | :--------------------------------------------------------------------------------- |
-| `Python`      | Primary programming language                       | [python.org](https://www.python.org/)                                              |
-| `Marshal`     | Low-level Python object serialization
-    | [docs.python.org/3/library/marshal.html](https://docs.python.org/3/library/marshal.html) |
-| `Struct`   | Binary data packing and unpacking
-     | [docs.python.org/3/library/struct.html](https://docs.python.org/3/library/struct.html) |
-| `OS/Sys`     | System interaction and file management     | [docs.python.org/3/library/os.html](https://docs.python.org/3/library/os.html) |
+| `Python`      | Primary programming language                       | [python.org](https://www.python.org/) |
+| `Marshal`     | Low-level Python object serialization              | [marshal.html](https://docs.python.org/3/library/marshal.html)   |
+| `Struct`      | Binary data packing and unpacking                  | [struct.html](https://docs.python.org/3/library/struct.html)     |
+| `OS/Sys`      | System interaction and file management             | [os.html](https://docs.python.org/3/library/os.html)             |
 
 
 ## License
